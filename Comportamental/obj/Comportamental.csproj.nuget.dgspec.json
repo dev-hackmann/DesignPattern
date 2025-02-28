@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projects\\DesignPattern\\Criacional\\Criacional.csproj": {}
+    "c:\\projects\\DesignPattern\\Comportamental\\Comportamental.csproj": {}
   },
   "projects": {
-    "C:\\projects\\DesignPattern\\Criacional\\Criacional.csproj": {
+    "c:\\projects\\DesignPattern\\Comportamental\\Comportamental.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\DesignPattern\\Criacional\\Criacional.csproj",
-        "projectName": "Criacional",
-        "projectPath": "C:\\projects\\DesignPattern\\Criacional\\Criacional.csproj",
+        "projectUniqueName": "c:\\projects\\DesignPattern\\Comportamental\\Comportamental.csproj",
+        "projectName": "Comportamental",
+        "projectPath": "c:\\projects\\DesignPattern\\Comportamental\\Comportamental.csproj",
         "packagesPath": "C:\\Users\\hackm\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\DesignPattern\\Criacional\\obj\\",
+        "outputPath": "c:\\projects\\DesignPattern\\Comportamental\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hackm\\AppData\\Roaming\\NuGet\\NuGet.Config"

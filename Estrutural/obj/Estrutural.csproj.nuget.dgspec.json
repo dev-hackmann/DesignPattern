@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\projects\\DesignPattern\\Estrutural\\Estrutural.csproj": {}
+    "C:\\projects\\DesignPattern\\Estrutural\\Estrutural.csproj": {}
   },
   "projects": {
-    "c:\\projects\\DesignPattern\\Estrutural\\Estrutural.csproj": {
+    "C:\\projects\\DesignPattern\\Estrutural\\Estrutural.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\projects\\DesignPattern\\Estrutural\\Estrutural.csproj",
+        "projectUniqueName": "C:\\projects\\DesignPattern\\Estrutural\\Estrutural.csproj",
         "projectName": "Estrutural",
-        "projectPath": "c:\\projects\\DesignPattern\\Estrutural\\Estrutural.csproj",
+        "projectPath": "C:\\projects\\DesignPattern\\Estrutural\\Estrutural.csproj",
         "packagesPath": "C:\\Users\\hackm\\.nuget\\packages\\",
-        "outputPath": "c:\\projects\\DesignPattern\\Estrutural\\obj\\",
+        "outputPath": "C:\\projects\\DesignPattern\\Estrutural\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hackm\\AppData\\Roaming\\NuGet\\NuGet.Config"
